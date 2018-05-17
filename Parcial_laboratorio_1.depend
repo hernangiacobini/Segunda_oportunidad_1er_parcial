@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1526000374 source:d:\giacobini\parcial_laboratorio_1\abm_aviso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"abm_aviso.h"
+	"abm_cliente.h"
+
+1524691840 d:\giacobini\parcial_laboratorio_1\utn.h
+
+1525998001 d:\giacobini\parcial_laboratorio_1\abm_aviso.h
+	"abm_cliente.h"
+
+1526000409 d:\giacobini\parcial_laboratorio_1\abm_cliente.h
+
+1526000126 source:d:\giacobini\parcial_laboratorio_1\abm_cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"abm_aviso.h"
+	"abm_cliente.h"
+
+1525998090 source:d:\giacobini\parcial_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"abm_aviso.h"
+	"abm_cliente.h"
+
+1524691840 source:d:\giacobini\parcial_laboratorio_1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526518220 source:c:\users\marcos\desktop\primerparciallaboratorio-master\parcial_laboratorio_1\abm_aviso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"abm_aviso.h"
+	"abm_cliente.h"
+
+1526492544 c:\users\marcos\desktop\primerparciallaboratorio-master\parcial_laboratorio_1\utn.h
+
+1526513328 c:\users\marcos\desktop\primerparciallaboratorio-master\parcial_laboratorio_1\abm_aviso.h
+	"abm_cliente.h"
+
+1526500424 c:\users\marcos\desktop\primerparciallaboratorio-master\parcial_laboratorio_1\abm_cliente.h
+
+1526518220 source:c:\users\marcos\desktop\primerparciallaboratorio-master\parcial_laboratorio_1\abm_cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"abm_aviso.h"
+	"abm_cliente.h"
+
+1526520895 source:c:\users\marcos\desktop\primerparciallaboratorio-master\parcial_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"abm_aviso.h"
+	"abm_cliente.h"
+	"informes.h"
+
+1526496281 source:c:\users\marcos\desktop\primerparciallaboratorio-master\parcial_laboratorio_1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526523658 c:\users\marcos\desktop\primerparciallaboratorio-master\parcial_laboratorio_1\informes.h
+	"abm_cliente.h"
+	"abm_aviso.h"
+
+1526519218 source:c:\users\marcos\desktop\primerparciallaboratorio-master\parcial_laboratorio_1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"abm_aviso.h"
+	"abm_cliente.h"
+
+1526591136 source:c:\users\hernan.giacobini\desktop\primer parcial_segunda oportunidad\abm_aviso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"abm_aviso.h"
+	"abm_cliente.h"
+
+1526586939 c:\users\hernan.giacobini\desktop\primer parcial_segunda oportunidad\utn.h
+
+1526589554 c:\users\hernan.giacobini\desktop\primer parcial_segunda oportunidad\abm_aviso.h
+	"abm_cliente.h"
+
+1526587414 c:\users\hernan.giacobini\desktop\primer parcial_segunda oportunidad\abm_cliente.h
+
+1526586864 source:c:\users\hernan.giacobini\desktop\primer parcial_segunda oportunidad\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"abm_aviso.h"
+	"abm_cliente.h"
+
+1526589991 source:c:\users\hernan.giacobini\desktop\primer parcial_segunda oportunidad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"abm_aviso.h"
+	"abm_cliente.h"
+	"informes.h"
+
+1526586875 c:\users\hernan.giacobini\desktop\primer parcial_segunda oportunidad\informes.h
+	"abm_cliente.h"
+	"abm_aviso.h"
+
+1526586929 source:c:\users\hernan.giacobini\desktop\primer parcial_segunda oportunidad\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526588540 source:c:\users\hernan.giacobini\desktop\primer parcial_segunda oportunidad\abm_cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"abm_aviso.h"
+	"abm_cliente.h"
+
